@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca371380-1d22-4aa5-a258-9748a80167a1" name="Changes" comment="Post request">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/thetestingacademy/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacademy/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_groups.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.thetestingacademy.tests.crud.testCreateBookingPOST_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.thetestingacademy.tests.crud.testCreateBookingPOST_results.xml" afterDir="false" />
+    <list default="true" id="ca371380-1d22-4aa5-a258-9748a80167a1" name="Changes" comment="Allure Report Setup">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719632623227</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Allure Report Setup">
+      <option name="closed" value="true" />
+      <created>1719635893815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719635893815</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,6 +131,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a basic Structure" />
     <MESSAGE value="Post request" />
-    <option name="LAST_COMMIT_MESSAGE" value="Post request" />
+    <MESSAGE value="Allure Report Setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Allure Report Setup" />
   </component>
 </project>
