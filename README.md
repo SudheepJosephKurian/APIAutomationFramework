@@ -12,26 +12,36 @@ API Automation Framework with the CRUD of Restful Booker
 
 ## Tech Stack
 
-1. Rest Assured
-2. Java
-3. Apache POI, TestNG, Maven
-4. Jackson and GSON
-5. Log42
-6. Allure Report
-7. Full Folder Structure(Hybrid) Framework.
-8. Jenkins File
+1. Java ( JDK > 17)
+2. Rest Assured
+3. Apache POI, TestNG, Maven.
+4. AssertJ (Advance assertions)
+5. Jackson and GSON
+6. Log4j
+7. Allure Report
+8. Full Folder Structure(Hybrid) Framework.
+9. Jenkins File
 
+#### API Framework Important Components
+![Screenshot 2024-06-29 at 12 44 29](https://github.com/PramodDutta/APIAutomationFramworkATB6x/assets/1409610/98bbc62d-7837-4bdc-900b-b214c675af6d)
+
+#### Running via CI/CD
 <img width="1262" alt="Screenshot 2023-10-31 at 12 26 07 PM" src="https://github.com/PramodDutta/APIAutomationRestAssured/assets/1409610/2d58bf82-0ffb-4fcb-a2d9-cf26920fa7b5">
 
 
 Run
 
-## Basic Create Test
-mvn clean test
+### Basic Create Test
+```mvn clean test```
 
 ## Integration Test (Create BookinG and Create Token , Update and Delete Booking)
 
 mvn clean test -DsuiteXmlFile=testng-integration.xml
+
+### Allure Report Generated.
+```allure serve allure-results/```
+
+![image](https://github.com/PramodDutta/APIAutomationFramworkATB6x/assets/1409610/79ba2093-a1b7-4b36-ba16-9a6827af7afe)
 
 
 #### Try these Cases also
